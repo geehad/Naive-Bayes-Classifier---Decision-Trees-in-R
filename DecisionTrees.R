@@ -1,4 +1,3 @@
-
 setwd("/home/gehad/bigData_lab5")
 getwd()
 
